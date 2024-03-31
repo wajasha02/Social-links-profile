@@ -33,12 +33,12 @@ body {
     margin-bottom: 1.5rem;
 }
 .card h1 {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
-.card h3{
-    font-size: 12px;
+.location{
+    font-size: 14px;
     font-weight: 700;
     color: hsl(75, 94%, 57%);
     margin-bottom: 1.5rem;
